@@ -1,0 +1,21 @@
+{
+  "projectId": "nnmigd",
+  "baseUrl": "https://baredfootwearstaging-featureecom105cypresstests.gtsb.io/",
+  "blockHosts": [
+    "google-analytics.com",
+    "googletagmanager.com",
+    "gstatic.com",
+    "unpkg.com",
+    "klaviyo.com",
+    "visualwebsiteoptimizer.com",
+    "config.gorgias.chat",
+    "pinimg.com",
+    "doubleclick.net",
+    "bam.nr-data.net",
+    "js-agent.newrelic.com"
+  ],
+  "video": true,
+  "requestTimeout": 30000,
+  "responseTimeout": 90000,
+  "pageLoadTimeout": 90000
+}

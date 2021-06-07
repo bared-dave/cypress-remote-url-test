@@ -1,0 +1,1242 @@
+{
+  "data": {
+    "product": {
+      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzUwNzA3MzgwMzA3Mjg=",
+      "handle": "aluminium-black-lace-up",
+      "title": "Aluminium Black Leather Lace-ups",
+      "description": "Taking you from the desk to drinks with ease, an Oxford lace-up is an essential in every man's wardrobe. Featuring toe-cap detailing and a padded heel cup - the 'Aluminium' is the ultimate all-day dress shoe.",
+      "descriptionHtml": "\u003cp\u003eTaking you from the desk to drinks with ease, an Oxford lace-up is an essential in every man's wardrobe. Featuring toe-cap detailing and a padded heel cup - the 'Aluminium' is the ultimate all-day dress shoe.\u003c/p\u003e",
+      "productType": "",
+      "vendor": "Bared Footwear",
+      "tags": [
+        "40 In Stock",
+        "category:Dress",
+        "category:Lace Ups",
+        "colour:Black",
+        "colours:aluminium-black-lace-up",
+        "colours:aluminium-caramel-lace-up",
+        "colours:aluminium-dark-tan-lace-up",
+        "colours:aluminium-tan-ii-lace-up",
+        "feature:Best for narrow feet",
+        "feature:Best for wide feet",
+        "feature:Orthotic friendly",
+        "gender:men",
+        "lightspeed_id:m_159",
+        "Material:Leather",
+        "Not on Sale",
+        "notify",
+        "product_aisle:T9 (C)",
+        "product_colour:Black",
+        "product_name:Aluminium",
+        "sale:price:231",
+        "swatch:BlackLeather",
+        "type:essential",
+        "type:event",
+        "type:men",
+        "type:narrow",
+        "type:orthotic",
+        "type:party",
+        "type:walking",
+        "type:wedding",
+        "type:wide",
+        "type:work",
+        "YGroup_ygroup_aluminium"
+      ],
+      "availableForSale": true,
+      "publishedAt": "2020-06-30T01:36:29Z",
+      "updatedAt": "2021-06-03T03:28:31Z",
+      "createdAt": "2020-06-30T01:17:36Z",
+      "options": [
+        { "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzY2MzQ4ODg0Mjk3MDQ=", "name": "Colour", "values": ["Black"], "__typename": "ProductOption" },
+        {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzY2MzQ4ODg0NjI0NzI=",
+          "name": "Size",
+          "values": ["40", "41", "42", "43", "44", "45", "46", "47", "48"],
+          "__typename": "ProductOption"
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+        "minVariantPrice": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+        "__typename": "ProductPriceRange"
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMjgyODY3MjMyMjc3ODQ=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Bared_Footwear_Aluminium_Black_210510_01.jpg?v=1621304254",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Bared_Footwear_Aluminium_Black_210510_01.jpg?v=1621304254",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ2MDE3MzY=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_GIF_1.gif?v=1621234930",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_GIF_1.gif?v=1621234930",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1Njg5Njg=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_1.jpg?v=1621234930",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_1.jpg?v=1621234930",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMjgyODY3MjMxOTUwMTY=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Bared_Footwear_Aluminium_Black_210510_02.jpg?v=1621304254",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Bared_Footwear_Aluminium_Black_210510_02.jpg?v=1621304254",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ2MzQ1MDQ=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_3.jpg?v=1621234930",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_3.jpg?v=1621234930",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ2NjcyNzI=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_4.jpg?v=1621234930",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_4.jpg?v=1621234930",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ3MDAwNDA=",
+              "altText": null,
+              "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_GIF_2_7f1b02a9-4e6e-4ffe-b329-492968354363.gif?v=1621234930",
+              "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_GIF_2_7f1b02a9-4e6e-4ffe-b329-492968354363.gif?v=1621234930",
+              "__typename": "Image"
+            },
+            "__typename": "ImageEdge"
+          }
+        ],
+        "__typename": "ImageConnection"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "alt": "",
+              "id": "Z2lkOi8vc2hvcGlmeS9NZWRpYUltYWdlLzk1Njc2Njk2MTY3NzY=",
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9HcmFwaEFwaTo6SW1hZ2U6OlZhbHVlLzk1Njc4OTM1ODYwNTY=",
+                "altText": "",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1601944691",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1601944691",
+                "__typename": "Image"
+              },
+              "__typename": "MediaImage"
+            },
+            "__typename": "MediaEdge"
+          }
+        ],
+        "__typename": "MediaConnection"
+      },
+      "metafields": { "edges": [], "__typename": "MetafieldConnection" },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTQ1NTQ5Ng==",
+              "sku": "9355885044283",
+              "title": "Black / 40",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 4,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "40", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "210.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "229.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": { "amount": "315.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "179.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTQ4ODI2NA==",
+              "sku": "9355885044290",
+              "title": "Black / 41",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 11,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "41", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTUyMTAzMg==",
+              "sku": "9355885044306",
+              "title": "Black / 42",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 33,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "42", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTU1MzgwMA==",
+              "sku": "9355885044313",
+              "title": "Black / 43",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 25,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "43", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTU4NjU2OA==",
+              "sku": "9355885044320",
+              "title": "Black / 44",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 27,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "44", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTYxOTMzNg==",
+              "sku": "9355885044337",
+              "title": "Black / 45",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 33,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "45", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTY1MjEwNA==",
+              "sku": "9355885044344",
+              "title": "Black / 46",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 20,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "46", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTY4NDg3Mg==",
+              "sku": "9355885044351",
+              "title": "Black / 47",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 5,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "47", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zNDIzNjEwOTcxNzY0MA==",
+              "sku": "9355885044368",
+              "title": "Black / 48",
+              "weight": 2.4,
+              "weightUnit": "KILOGRAMS",
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 5,
+              "requiresShipping": true,
+              "selectedOptions": [
+                { "name": "Colour", "value": "Black", "__typename": "SelectedOption" },
+                { "name": "Size", "value": "48", "__typename": "SelectedOption" }
+              ],
+              "image": {
+                "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTczOTAzNDQ1MzYyMDA=",
+                "altText": null,
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/0322/6841/9208/products/Aluminium_Black_289AUD_2.jpg?v=1621234919",
+                "__typename": "Image"
+              },
+              "priceV2": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+              "compareAtPriceV2": null,
+              "__typename": "ProductVariant",
+              "presentmentPrices": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": { "amount": "289.0", "currencyCode": "AUD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "316.0", "currencyCode": "NZD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  },
+                  {
+                    "node": {
+                      "price": { "amount": "246.0", "currencyCode": "USD", "__typename": "MoneyV2" },
+                      "compareAtPrice": null,
+                      "__typename": "ProductVariantPricePair"
+                    },
+                    "__typename": "ProductVariantPricePairEdge"
+                  }
+                ],
+                "__typename": "ProductVariantPricePairConnection"
+              }
+            },
+            "__typename": "ProductVariantEdge"
+          }
+        ],
+        "__typename": "ProductVariantConnection"
+      },
+      "collections": {
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4NTY2MDg2NjY5Ng==",
+              "title": "OrderlyEmails - Recommended Products",
+              "handle": "orderlyemails-recommended-products",
+              "description": "This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock \u0026 not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -\u003e Apps) and add the \"Recommended products\" section to an email in the editor. Note: This collection is \"hidden\", it is not be visible on your website.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4NzIwNjk5MjAwOA==",
+              "title": "Men's Dress",
+              "handle": "mens-dress",
+              "description": "A Bared man is a dapper man. Our best-selling collection of Oxfords, brogues and monks will take you from a day on your feet to an evening of style.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4NzI1MTMyNzExMg==",
+              "title": "All Men's",
+              "handle": "all-mens",
+              "description": "We suggest slipping into something more comfortable, meet the shoes that will take you places.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4ODIxNTQ5Mjc0NA==",
+              "title": "Men's Back In Stock",
+              "handle": "mens-back-in-stock",
+              "description": "You asked, we listened - get to know the sell-out styles we had to bring back.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4ODI1NTQ2OTcwNA==",
+              "title": "Discount capable products",
+              "handle": "discount-capable-products",
+              "description": "",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4ODc1NjU1Nzk2MA==",
+              "title": "Men's Dress Shoes Sale",
+              "handle": "mens-dress-shoes-sale",
+              "description": "A Bared man is a dapper man. Our best-selling collection of Oxfords, brogues and monks will take you from a day on your feet to an evening of style.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4OTExNDUxNTU5Mg==",
+              "title": "Size 40 Collection",
+              "handle": "size-40-collection",
+              "description": "",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4OTYwODAzNDQ0MA==",
+              "title": "Men's Work Shoes",
+              "handle": "mens-workwear",
+              "description": "Just what you need, discover the shoes to take you through the week. From best-selling oxfords, to classically-crafted brogues, this collection of timeless styles is just what your wardrobe has been asking for.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4OTc0NzM5Njc0NA==",
+              "title": "All Men's Sale",
+              "handle": "mens-all-sale",
+              "description": "We suggest slipping into something more comfortable, meet the shoes that will take you places.",
+              "image": null,
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionEdge"
+          }
+        ],
+        "__typename": "CollectionConnection"
+      },
+      "__typename": "Product"
+    },
+    "grouped": {
+      "edges": [
+        {
+          "node": {
+            "handle": "aluminium-black-lace-up",
+            "tags": [
+              "40 In Stock",
+              "category:Dress",
+              "category:Lace Ups",
+              "colour:Black",
+              "colours:aluminium-black-lace-up",
+              "colours:aluminium-caramel-lace-up",
+              "colours:aluminium-dark-tan-lace-up",
+              "colours:aluminium-tan-ii-lace-up",
+              "feature:Best for narrow feet",
+              "feature:Best for wide feet",
+              "feature:Orthotic friendly",
+              "gender:men",
+              "lightspeed_id:m_159",
+              "Material:Leather",
+              "Not on Sale",
+              "notify",
+              "product_aisle:T9 (C)",
+              "product_colour:Black",
+              "product_name:Aluminium",
+              "sale:price:231",
+              "swatch:BlackLeather",
+              "type:essential",
+              "type:event",
+              "type:men",
+              "type:narrow",
+              "type:orthotic",
+              "type:party",
+              "type:walking",
+              "type:wedding",
+              "type:wide",
+              "type:work",
+              "YGroup_ygroup_aluminium"
+            ],
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "handle": "aluminium-tan-ii-lace-up",
+            "tags": [
+              "40 In Stock",
+              "category:Dress",
+              "category:Lace Ups",
+              "colour:Brown",
+              "colours:aluminium-black-lace-up",
+              "colours:aluminium-caramel-lace-up",
+              "colours:aluminium-dark-tan-lace-up",
+              "colours:aluminium-tan-ii-lace-up",
+              "feature:Best for narrow feet",
+              "feature:Best for wide feet",
+              "feature:Orthotic friendly",
+              "gender:men",
+              "lightspeed_id:m_159",
+              "Material:Leather",
+              "Not on Sale",
+              "notify",
+              "product_aisle:xx (x)",
+              "product_colour:Tan II",
+              "product_name:Aluminium",
+              "sale:price:231",
+              "swatch:BrownLeather",
+              "type:essential",
+              "type:event",
+              "type:men",
+              "type:narrow",
+              "type:orthotic",
+              "type:party",
+              "type:walking",
+              "type:wedding",
+              "type:wide",
+              "type:work",
+              "YGroup_ygroup_aluminium"
+            ],
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "handle": "aluminium-dark-tan-lace-up",
+            "tags": [
+              "40 In Stock",
+              "category:Dress",
+              "category:Lace Ups",
+              "colour:Brown",
+              "colours:aluminium-black-lace-up",
+              "colours:aluminium-caramel-lace-up",
+              "colours:aluminium-dark-tan-lace-up",
+              "colours:aluminium-tan-ii-lace-up",
+              "feature:Best for narrow feet",
+              "feature:Best for wide feet",
+              "feature:Orthotic friendly",
+              "gender:men",
+              "lightspeed_id:m_159",
+              "Material:Leather",
+              "Not on Sale",
+              "notify",
+              "product_aisle:T9 (C)",
+              "product_colour:Dark Tan",
+              "product_name:Aluminium",
+              "sale:price:231",
+              "swatch:BrownLeather",
+              "type:essential",
+              "type:event",
+              "type:men",
+              "type:narrow",
+              "type:orthotic",
+              "type:party",
+              "type:walking",
+              "type:wedding",
+              "type:wide",
+              "type:work",
+              "YGroup_ygroup_aluminium"
+            ],
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        }
+      ],
+      "__typename": "ProductConnection"
+    },
+    "recommendations": [
+      {
+        "handle": "hydrogen-2-black-nubuck-boot",
+        "tags": [
+          "40 In Stock",
+          "category:Boots",
+          "colour:Black",
+          "colours:hydrogen-2-black-nubuck-boot",
+          "colours:hydrogen-2-brown-suede-boot",
+          "colours:hydrogen-2-chocolate-suede-boots",
+          "colours:hydrogen-2-dark-tan-boot",
+          "colours:hydrogen-2-dark-tan-nubuck-boot",
+          "colours:hydrogen-2-navy-nubuck-boot",
+          "colours:hydrogen-2-sand-nubuck-boot",
+          "colours:hydrogen-2-sand-suede-boot",
+          "colours:hydrogen-2-stone-boot",
+          "colours:hydrogen-2-tan-nubuck-boot",
+          "colours:hydrogen-2-tan-suede-boot",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_151",
+          "Material:Leather",
+          "Not on Sale",
+          "notify",
+          "product_aisle:T2 (C)",
+          "product_colour:Black Nubuck",
+          "product_name:Hydrogen 2",
+          "sale:price:231",
+          "swatch:BlackSuede",
+          "type:casual",
+          "type:essential",
+          "type:men",
+          "type:narrow",
+          "type:orthotic",
+          "type:walk",
+          "type:wide",
+          "type:work",
+          "YGroup_ygroup_hydrogen2"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "aluminium-dark-tan-lace-up",
+        "tags": [
+          "40 In Stock",
+          "category:Dress",
+          "category:Lace Ups",
+          "colour:Brown",
+          "colours:aluminium-black-lace-up",
+          "colours:aluminium-caramel-lace-up",
+          "colours:aluminium-dark-tan-lace-up",
+          "colours:aluminium-tan-ii-lace-up",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_159",
+          "Material:Leather",
+          "Not on Sale",
+          "notify",
+          "product_aisle:T9 (C)",
+          "product_colour:Dark Tan",
+          "product_name:Aluminium",
+          "sale:price:231",
+          "swatch:BrownLeather",
+          "type:essential",
+          "type:event",
+          "type:men",
+          "type:narrow",
+          "type:orthotic",
+          "type:party",
+          "type:walking",
+          "type:wedding",
+          "type:wide",
+          "type:work",
+          "YGroup_ygroup_aluminium"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "aluminium-tan-ii-lace-up",
+        "tags": [
+          "40 In Stock",
+          "category:Dress",
+          "category:Lace Ups",
+          "colour:Brown",
+          "colours:aluminium-black-lace-up",
+          "colours:aluminium-caramel-lace-up",
+          "colours:aluminium-dark-tan-lace-up",
+          "colours:aluminium-tan-ii-lace-up",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_159",
+          "Material:Leather",
+          "Not on Sale",
+          "notify",
+          "product_aisle:xx (x)",
+          "product_colour:Tan II",
+          "product_name:Aluminium",
+          "sale:price:231",
+          "swatch:BrownLeather",
+          "type:essential",
+          "type:event",
+          "type:men",
+          "type:narrow",
+          "type:orthotic",
+          "type:party",
+          "type:walking",
+          "type:wedding",
+          "type:wide",
+          "type:work",
+          "YGroup_ygroup_aluminium"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "potassium-2-navy-loafer",
+        "tags": [
+          "* Type:MensLoafers",
+          "40 In Stock",
+          "category:Boat Shoes",
+          "category:Casual",
+          "colour:Blue",
+          "colours:potassium-2-chocolate-loafer",
+          "colours:potassium-2-desert-tan-loafer",
+          "colours:potassium-2-navy-loafer",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_348",
+          "Not on Sale",
+          "notify",
+          "product_aisle:T8 (C)",
+          "product_colour:Navy",
+          "product_name:Potassium 2",
+          "sale:price:231",
+          "swatch:NavySuede",
+          "type:beach",
+          "type:event",
+          "type:mens",
+          "type:narrow",
+          "type:orthotic",
+          "type:summer",
+          "type:travel",
+          "type:wide",
+          "YGroup_ygroup_potassium2"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "promethium-black-nubuck-mesh-mens-sneakers",
+        "tags": [
+          "badge:light:Notify Me",
+          "category:Men's Sneakers",
+          "colour:Black",
+          "colours:promethium-black-nubuck-mesh-mens-sneakers",
+          "colours:promethium-navy-mesh-navy-nubuck-sneaker",
+          "colours:promethium-olive-nubuck-navy-mesh-mens-sneakers",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_433",
+          "Not on Sale",
+          "notify",
+          "product_aisle:T4 (B)",
+          "product_colour:Black Nubuck \u0026 Mesh",
+          "product_name:Promethium",
+          "sale:price:191",
+          "swatch:BlackLeather",
+          "type:narrow",
+          "type:orthotic",
+          "type:travel",
+          "type:wide",
+          "type:work"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "strontium-black-pebbled-lace-up",
+        "tags": [
+          "* Type:MensDerby",
+          "40 In Stock",
+          "category:Casual",
+          "category:Lace Ups",
+          "colour:Black",
+          "colours:strontium-black-pebbled-lace-up",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_421",
+          "Not on Sale",
+          "product_aisle:T7 (C)",
+          "product_colour:Black Pebbled",
+          "product_name:Strontium",
+          "sale:price:207",
+          "swatch:BlackLeather",
+          "type:corporate",
+          "type:event",
+          "type:narrow",
+          "type:office",
+          "type:orthotic",
+          "type:wide",
+          "type:work",
+          "YGroup_ygroup_strontium"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "iron-brown-suede-boot",
+        "tags": [
+          "40 In Stock",
+          "badge:dark:Sale",
+          "category:Boots",
+          "colour:Brown",
+          "colour:Neutral",
+          "colours:iron-black-boot",
+          "colours:iron-brown-suede-boot",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "Last Pairs",
+          "lightspeed_id:m_386",
+          "Not on Sale",
+          "product_aisle:T1 (A)",
+          "product_colour:Brown Suede",
+          "product_name:Iron",
+          "sale:price:99",
+          "swatch:BrownSuede",
+          "type:event",
+          "type:men",
+          "type:narrow",
+          "type:orthotic",
+          "type:wedding",
+          "type:wide",
+          "YGroup_ygroup_iron"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "scandium-2-black-leather-loafer",
+        "tags": [
+          "* Type:MensLoafers",
+          "40 In Stock",
+          "category:Dress",
+          "category:Loafers",
+          "colour:Black",
+          "colours:scandium-2-black-leather-loafer",
+          "colours:scandium-2-chestnut-loafer",
+          "colours:scandium-2-mushroom-suede-loafer",
+          "colours:scandium-2-navy-nubuck-loafer",
+          "feature:Best for narrow feet",
+          "feature:Best for wide feet",
+          "feature:Orthotic friendly",
+          "gender:men",
+          "lightspeed_id:m_358",
+          "Not on Sale",
+          "notify",
+          "product_aisle:T10 (B)",
+          "product_colour:Black Leather",
+          "product_name:Scandium 2",
+          "sale:price:231",
+          "swatch:BlackLeather",
+          "type:event",
+          "type:mens",
+          "type:narrow",
+          "type:orthotic",
+          "type:party",
+          "type:wedding",
+          "type:wide",
+          "YGroup_ygroup_scandium2"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "collonil-supreme-de-luxe-cream-colourless-leather-care",
+        "tags": [
+          "category:Leather Care",
+          "colours:collonil-supreme-de-luxe-cream-black-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-burgundy-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-colourless-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-dark-brown-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-navy-leather-care",
+          "gender:",
+          "lightspeed_id:m_171",
+          "Not on Sale",
+          "product_colour:Colourless",
+          "product_name:Collonil Supreme De Luxe Cream",
+          "swatch:WhiteLeather"
+        ],
+        "__typename": "Product"
+      },
+      {
+        "handle": "collonil-supreme-de-luxe-cream-navy-leather-care",
+        "tags": [
+          "category:Leather Care",
+          "colours:collonil-supreme-de-luxe-cream-black-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-burgundy-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-colourless-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-dark-brown-leather-care",
+          "colours:collonil-supreme-de-luxe-cream-navy-leather-care",
+          "gender:",
+          "Last Pairs",
+          "lightspeed_id:m_171",
+          "Not on Sale",
+          "product_colour:Navy",
+          "product_name:Collonil Supreme De Luxe Cream",
+          "swatch:NavyPatent"
+        ],
+        "__typename": "Product"
+      }
+    ]
+  }
+}
