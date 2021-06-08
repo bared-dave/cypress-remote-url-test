@@ -13,7 +13,6 @@ describe('Global Elements', () => {
 
       cy.get(drawerSelector, { timeout: 10000 }).should('not.be.visible')
       cy.get(triggerSelector).click()
-      cy.screenshot()
       cy.get(drawerSelector).should('be.visible')
       cy.get(buttonSelector).each((button, i) => {
         const shoeIconSelector = `[data-test-id^="header-navigation-mobile-accordion-shoe-icon-${i}"]`
@@ -38,12 +37,10 @@ describe('Global Elements', () => {
 
       cy.get(containerSelector).should('not.be.visible')
       cy.get(searchTriggerSelector).click()
-      cy.screenshot()
       cy.get(containerSelector).should('be.visible')
       cy.get(searchInputSelector).type(searchText)
       cy.get(noResultsSelector).should('be.visible')
       cy.get(closeTriggerSelector).click({ multiple: true, force: true })
-      cy.screenshot()
     })
 
     it('mini-cart should display', () => {
@@ -53,7 +50,6 @@ describe('Global Elements', () => {
       cy.get(cartDrawerSelector).should('not.be.visible')
       cy.get(cartTriggerSelector).click()
       cy.get(cartDrawerSelector).should('be.visible')
-      cy.screenshot()
     })
   })
 
@@ -71,11 +67,9 @@ describe('Global Elements', () => {
       cy.get(panelSelector, { timeout: 10000 }).should('not.be.visible')
       cy.get(itemSelector).trigger('mouseenter')
       cy.get(itemSelector).trigger('mouseover')
-      cy.screenshot()
       cy.get(panelSelector).should('be.visible')
       cy.get(itemSelector).trigger('mouseout')
       cy.get(panelSelector).should('not.be.visible')
-      cy.screenshot()
     })
   })
 })
