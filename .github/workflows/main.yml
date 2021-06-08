@@ -13,12 +13,11 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           browser: chrome
+          record: true
           start: npm run test:e2e
       - name: Store artifacts
         uses: actions/upload-artifact@v1
-          if: failure()
+          if: always()
           with:
-            name: cypress-screenshots
-            path: cypress/screenshots
-            name: cypress-videos
-            path: cypress/videos
+            name: cypress-artifacts
+            path: cypress/?(videos|screenshots)
