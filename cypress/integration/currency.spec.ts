@@ -36,12 +36,13 @@ describe('Currency Switching', () => {
   context('Default', () => {
     beforeEach(() => {
       cy.setLocalStorage('headless:subscribe', { value: 'hidden', expiry: 0 })
-      cy.intercept('https://ipapi.co/json/?*', mockLocationAPI('au', 'LocationAU'))
-      cy.intercept('**/api/*/graphql.json', mockShopifyAPI)
+      cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('au', 'LocationAU'))
+      cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
     })
 
     it('clicking trigger should display available currencies', () => {
+      // cy.wait(['@LocationAU', '@GetShopSettings', '@CheckoutCreate', '@GetProduct']) // <-- This does not work
       cy.get(priceNormalSelector).first().should('have.text', '$289')
       cy.get(priceDiscountedSelector).first().should('have.text', '$210')
       cy.get(triggerSelector).click({ force: true })
@@ -66,8 +67,8 @@ describe('Currency Switching', () => {
   context('AUD', () => {
     beforeEach(() => {
       cy.setLocalStorage('headless:subscribe', { value: 'hidden', expiry: 0 })
-      cy.intercept('https://ipapi.co/json/?*', mockLocationAPI('au', 'LocationAU'))
-      cy.intercept('**/api/*/graphql.json', mockShopifyAPI)
+      cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('au', 'LocationAU'))
+      cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
     })
 
@@ -79,8 +80,8 @@ describe('Currency Switching', () => {
   context('USD', () => {
     beforeEach(() => {
       cy.setLocalStorage('headless:subscribe', { value: 'hidden', expiry: 0 })
-      cy.intercept('https://ipapi.co/json/?*', mockLocationAPI('us', 'LocationUS'))
-      cy.intercept('**/api/*/graphql.json', mockShopifyAPI)
+      cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('us', 'LocationUS'))
+      cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
     })
 
@@ -92,8 +93,8 @@ describe('Currency Switching', () => {
   context('NZD', () => {
     beforeEach(() => {
       cy.setLocalStorage('headless:subscribe', { value: 'hidden', expiry: 0 })
-      cy.intercept('https://ipapi.co/json/?*', mockLocationAPI('nz', 'LocationNZ'))
-      cy.intercept('**/api/*/graphql.json', mockShopifyAPI)
+      cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('nz', 'LocationNZ'))
+      cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
     })
 
@@ -105,8 +106,8 @@ describe('Currency Switching', () => {
   context('Other', () => {
     beforeEach(() => {
       cy.setLocalStorage('headless:subscribe', { value: 'hidden', expiry: 0 })
-      cy.intercept('https://ipapi.co/json/?*', mockLocationAPI('zw', 'LocationZW'))
-      cy.intercept('**/api/*/graphql.json', mockShopifyAPI)
+      cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('zw', 'LocationZW'))
+      cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
     })
 

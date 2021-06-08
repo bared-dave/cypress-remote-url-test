@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test:e2e": "DEBUG=cypress:* cypress run"
+    "test:e2e": "cypress run"
   },
   "dependencies": {
     "@types/cypress": "^1.1.3",
