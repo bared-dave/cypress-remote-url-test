@@ -83,7 +83,7 @@ describe('Currency Switching', () => {
       cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('us')).as('LocationUS')
       cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
-      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationAU'])
+      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationUS'])
     })
 
     it('should default to USD when user is in US', () => {
@@ -97,7 +97,7 @@ describe('Currency Switching', () => {
       cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('nz')).as('LocationNZ')
       cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
-      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationAU'])
+      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationNZ'])
     })
 
     it('should default to NZD when user is in NZ', () => {
@@ -111,7 +111,7 @@ describe('Currency Switching', () => {
       cy.intercept({ url: 'https://ipapi.co/json/?*', middleware: true }, mockLocationAPI('zw')).as('LocationZW')
       cy.intercept({ url: '**/api/*/graphql.json', middleware: true }, mockShopifyAPI)
       cy.visit('/products/aluminium-black-lace-ups')
-      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationAU'])
+      cy.wait(['@GetShopSettings', '@CheckoutCreate', '@GetProduct', '@LocationZW'])
     })
 
     it('should default to AUD when user is in in an unsupported country', () => {
