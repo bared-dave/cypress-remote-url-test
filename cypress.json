@@ -12,7 +12,8 @@
     "pinimg.com",
     "doubleclick.net",
     "bam.nr-data.net",
-    "js-agent.newrelic.com"
+    "js-agent.newrelic.com",
+    "google.firestore.*"
   ],
   "video": true,
   "defaultCommandTimeout": 10000,
